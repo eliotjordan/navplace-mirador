@@ -231,6 +231,12 @@
       ]
     }
   ],
+  "logo": [
+      {
+          "id": "https://figgy.princeton.edu/assets/pul_logo_icon-7b5f9384dfa5ca04f4851c6ee9e44e2d6953e55f893472a3e205e1591d3b2ca6.png",
+          "type": "Image"
+      }
+  ],
   "navPlace": {
       "id": "https://figgy.princeton.edu/concern/scanned_resources/c9df4fd8-814b-4d11-870f-b2905c56210d/manifest/feature-collection/1",
       "type": "FeatureCollection",
