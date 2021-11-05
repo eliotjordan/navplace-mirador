@@ -1,0 +1,1076 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://figgy.princeton.edu/concern/ephemera_folders/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest",
+    "type": "Manifest",
+    "label": {
+        "true": [
+            "Mangueira 2019. Hist\u00f3ria pra ninar gente grande. # A P\u00e1tria Cultural Do Samba."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "true": [
+                    "Barcode"
+                ]
+            },
+            "value": {
+                "true": [
+                    "32101109446821"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Folder Number"
+                ]
+            },
+            "value": {
+                "true": [
+                    "129"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Mangueira 2019. Hist\u00f3ria pra ninar gente grande. # A P\u00e1tria Cultural Do Samba."
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Portuguese"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Genre"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Fans"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Width"
+                ]
+            },
+            "value": {
+                "true": [
+                    "25"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Height"
+                ]
+            },
+            "value": {
+                "true": [
+                    "20"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Page Count"
+                ]
+            },
+            "value": {
+                "true": [
+                    "2"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Publisher"
+                ]
+            },
+            "value": {
+                "true": [
+                    "G.R.E.S. Esta\u00e7\u00e3o Primeira de Mangueira"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Geographic Origin"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Brazil"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Geo Subject"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Brazil"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "true": [
+                    "2019"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Provenance"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Brazilian content provided by the Library of Congress Office, Rio de Janeiro, Brazil."
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Subject"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Festivals",
+                    "Music",
+                    "Performing arts",
+                    "Popular culture"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://iiif-cloud.princeton.edu/iiif/2/e1%2F92%2Fd8%2Fe192d838d5ba4b609ae79b66f1d9acc3%2Fintermediate_file/full/!200,150/0/default.jpg",
+            "type": "Image",
+            "service": [
+                {
+                    "@id": "https://iiif-cloud.princeton.edu/iiif/2/e1%2F92%2Fd8%2Fe192d838d5ba4b609ae79b66f1d9acc3%2Fintermediate_file",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
+    "logo": [
+        {
+            "id": "https://figgy.princeton.edu/assets/pul_logo_icon-7b5f9384dfa5ca04f4851c6ee9e44e2d6953e55f893472a3e205e1591d3b2ca6.png",
+            "type": "Image"
+        }
+    ],
+    "behavior": [
+        "individuals"
+    ],
+    "seeAlso": [
+        {
+            "id": "https://figgy.princeton.edu/catalog/3386ca56-5f7d-4621-8b16-5a8df8fad29f.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest/canvas/3c8058a8-0eb7-472d-8f78-7d68dc84ec85",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "1"
+                ]
+            },
+            "height": 3195,
+            "width": 3982,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/3c8058a8-0eb7-472d-8f78-7d68dc84ec85/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/3c8058a8-0eb7-472d-8f78-7d68dc84ec85/file/d39315f8-3077-4819-a063-e08f777fb8f8",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/a9842e01-56c2-42bd-b206-867d26890a2f",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest/image/3c8058a8-0eb7-472d-8f78-7d68dc84ec85",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest/canvas/3c8058a8-0eb7-472d-8f78-7d68dc84ec85",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/e1%2F92%2Fd8%2Fe192d838d5ba4b609ae79b66f1d9acc3%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3195,
+                                "width": 3982,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/e1%2F92%2Fd8%2Fe192d838d5ba4b609ae79b66f1d9acc3%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest/canvas/803d40cb-db81-41bf-9ec4-fd67dc71b7d6",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "2"
+                ]
+            },
+            "height": 3186,
+            "width": 3981,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/803d40cb-db81-41bf-9ec4-fd67dc71b7d6/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/803d40cb-db81-41bf-9ec4-fd67dc71b7d6/file/d7aff6ef-82dd-4520-8623-3a44d6af196a",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/ca7be3a5-d83d-4b8a-899a-c85869d70225",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest/image/803d40cb-db81-41bf-9ec4-fd67dc71b7d6",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest/canvas/803d40cb-db81-41bf-9ec4-fd67dc71b7d6",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/8c%2F2f%2F6d%2F8c2f6d4245ea4d949530a0294c8824a7%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3186,
+                                "width": 3981,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/8c%2F2f%2F6d%2F8c2f6d4245ea4d949530a0294c8824a7%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "service": [
+        {
+            "@id": "https://figgy.princeton.edu/catalog/3386ca56-5f7d-4621-8b16-5a8df8fad29f/iiif_search",
+            "@type": "SearchService1",
+            "label": "Search within this item",
+            "profile": "http://iiif.io/api/search/0/search"
+        }
+    ],
+    "navPlace": {
+        "id": "https://figgy.princeton.edu/concern/scanned_resources/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://figgy.princeton.edu/concern/scanned_resources/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest/feature/1",
+                "type": "Feature",
+                "properties": {},
+                "geometry": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    -43.105868,
+                                    -22.74887
+                                ],
+                                [
+                                    -43.112707,
+                                    -22.754591
+                                ],
+                                [
+                                    -43.109831,
+                                    -22.759357
+                                ],
+                                [
+                                    -43.101833,
+                                    -22.752038
+                                ],
+                                [
+                                    -43.105868,
+                                    -22.74887
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    -43.30394,
+                                    -22.801306
+                                ],
+                                [
+                                    -43.311414,
+                                    -22.79992
+                                ],
+                                [
+                                    -43.328912,
+                                    -22.802638
+                                ],
+                                [
+                                    -43.365475,
+                                    -22.804065
+                                ],
+                                [
+                                    -43.37717,
+                                    -22.810888
+                                ],
+                                [
+                                    -43.390238,
+                                    -22.813661
+                                ],
+                                [
+                                    -43.407874,
+                                    -22.821174
+                                ],
+                                [
+                                    -43.415389,
+                                    -22.821591
+                                ],
+                                [
+                                    -43.421959,
+                                    -22.832577
+                                ],
+                                [
+                                    -43.431213,
+                                    -22.839269
+                                ],
+                                [
+                                    -43.458131,
+                                    -22.849037
+                                ],
+                                [
+                                    -43.469218,
+                                    -22.840411
+                                ],
+                                [
+                                    -43.4849,
+                                    -22.830708
+                                ],
+                                [
+                                    -43.490228,
+                                    -22.815918
+                                ],
+                                [
+                                    -43.500498,
+                                    -22.817653
+                                ],
+                                [
+                                    -43.578658,
+                                    -22.833406
+                                ],
+                                [
+                                    -43.588246,
+                                    -22.83864
+                                ],
+                                [
+                                    -43.592601,
+                                    -22.851097
+                                ],
+                                [
+                                    -43.597193,
+                                    -22.857821
+                                ],
+                                [
+                                    -43.623855,
+                                    -22.862967
+                                ],
+                                [
+                                    -43.644296,
+                                    -22.856249
+                                ],
+                                [
+                                    -43.660325,
+                                    -22.86392
+                                ],
+                                [
+                                    -43.677665,
+                                    -22.865292
+                                ],
+                                [
+                                    -43.682212,
+                                    -22.863314
+                                ],
+                                [
+                                    -43.70934,
+                                    -22.867995
+                                ],
+                                [
+                                    -43.71804,
+                                    -22.872989
+                                ],
+                                [
+                                    -43.725926,
+                                    -22.872956
+                                ],
+                                [
+                                    -43.733321,
+                                    -22.877753
+                                ],
+                                [
+                                    -43.745934,
+                                    -22.877157
+                                ],
+                                [
+                                    -43.752246,
+                                    -22.880814
+                                ],
+                                [
+                                    -43.75069,
+                                    -22.887611
+                                ],
+                                [
+                                    -43.766365,
+                                    -22.895241
+                                ],
+                                [
+                                    -43.779643,
+                                    -22.897126
+                                ],
+                                [
+                                    -43.788982,
+                                    -22.913197
+                                ],
+                                [
+                                    -43.796539,
+                                    -22.919428
+                                ],
+                                [
+                                    -43.789848,
+                                    -22.926083
+                                ],
+                                [
+                                    -43.781785,
+                                    -22.927961
+                                ],
+                                [
+                                    -43.773548,
+                                    -22.933414
+                                ],
+                                [
+                                    -43.753464,
+                                    -22.940976
+                                ],
+                                [
+                                    -43.726948,
+                                    -22.959149
+                                ],
+                                [
+                                    -43.719414,
+                                    -22.967066
+                                ],
+                                [
+                                    -43.710626,
+                                    -22.971253
+                                ],
+                                [
+                                    -43.700396,
+                                    -22.986338
+                                ],
+                                [
+                                    -43.687194,
+                                    -22.986245
+                                ],
+                                [
+                                    -43.680036,
+                                    -22.981493
+                                ],
+                                [
+                                    -43.673855,
+                                    -22.981282
+                                ],
+                                [
+                                    -43.664772,
+                                    -22.986917
+                                ],
+                                [
+                                    -43.652631,
+                                    -23.001325
+                                ],
+                                [
+                                    -43.642803,
+                                    -23.002077
+                                ],
+                                [
+                                    -43.638706,
+                                    -23.006429
+                                ],
+                                [
+                                    -43.623022,
+                                    -23.008894
+                                ],
+                                [
+                                    -43.615429,
+                                    -23.016883
+                                ],
+                                [
+                                    -43.60008,
+                                    -23.023094
+                                ],
+                                [
+                                    -43.594605,
+                                    -23.032809
+                                ],
+                                [
+                                    -43.580863,
+                                    -23.039927
+                                ],
+                                [
+                                    -43.57759,
+                                    -23.047623
+                                ],
+                                [
+                                    -43.601987,
+                                    -23.039628
+                                ],
+                                [
+                                    -43.607543,
+                                    -23.032234
+                                ],
+                                [
+                                    -43.614638,
+                                    -23.030609
+                                ],
+                                [
+                                    -43.656784,
+                                    -23.03902
+                                ],
+                                [
+                                    -43.667087,
+                                    -23.042827
+                                ],
+                                [
+                                    -43.668521,
+                                    -23.054093
+                                ],
+                                [
+                                    -43.623845,
+                                    -23.050909
+                                ],
+                                [
+                                    -43.601962,
+                                    -23.051183
+                                ],
+                                [
+                                    -43.576544,
+                                    -23.056909
+                                ],
+                                [
+                                    -43.56643,
+                                    -23.063027
+                                ],
+                                [
+                                    -43.568036,
+                                    -23.071402
+                                ],
+                                [
+                                    -43.562237,
+                                    -23.0759
+                                ],
+                                [
+                                    -43.552191,
+                                    -23.070946
+                                ],
+                                [
+                                    -43.549717,
+                                    -23.063076
+                                ],
+                                [
+                                    -43.53477,
+                                    -23.053982
+                                ],
+                                [
+                                    -43.534154,
+                                    -23.050694
+                                ],
+                                [
+                                    -43.509749,
+                                    -23.048374
+                                ],
+                                [
+                                    -43.506984,
+                                    -23.042817
+                                ],
+                                [
+                                    -43.500322,
+                                    -23.041381
+                                ],
+                                [
+                                    -43.491648,
+                                    -23.035459
+                                ],
+                                [
+                                    -43.467141,
+                                    -23.029685
+                                ],
+                                [
+                                    -43.436326,
+                                    -23.020516
+                                ],
+                                [
+                                    -43.405295,
+                                    -23.015283
+                                ],
+                                [
+                                    -43.376836,
+                                    -23.012164
+                                ],
+                                [
+                                    -43.350396,
+                                    -23.011013
+                                ],
+                                [
+                                    -43.326226,
+                                    -23.012376
+                                ],
+                                [
+                                    -43.308261,
+                                    -23.01632
+                                ],
+                                [
+                                    -43.293566,
+                                    -23.016942
+                                ],
+                                [
+                                    -43.286321,
+                                    -23.014302
+                                ],
+                                [
+                                    -43.286144,
+                                    -23.009128
+                                ],
+                                [
+                                    -43.267434,
+                                    -23.001028
+                                ],
+                                [
+                                    -43.24821,
+                                    -22.999962
+                                ],
+                                [
+                                    -43.243979,
+                                    -23.00132
+                                ],
+                                [
+                                    -43.231476,
+                                    -22.995368
+                                ],
+                                [
+                                    -43.226529,
+                                    -22.989577
+                                ],
+                                [
+                                    -43.218474,
+                                    -22.987698
+                                ],
+                                [
+                                    -43.192593,
+                                    -22.989076
+                                ],
+                                [
+                                    -43.18229,
+                                    -22.972151
+                                ],
+                                [
+                                    -43.167854,
+                                    -22.963835
+                                ],
+                                [
+                                    -43.161262,
+                                    -22.965396
+                                ],
+                                [
+                                    -43.159788,
+                                    -22.957562
+                                ],
+                                [
+                                    -43.150224,
+                                    -22.950749
+                                ],
+                                [
+                                    -43.155668,
+                                    -22.943377
+                                ],
+                                [
+                                    -43.162181,
+                                    -22.943353
+                                ],
+                                [
+                                    -43.169754,
+                                    -22.951888
+                                ],
+                                [
+                                    -43.180193,
+                                    -22.948089
+                                ],
+                                [
+                                    -43.178145,
+                                    -22.943005
+                                ],
+                                [
+                                    -43.17049,
+                                    -22.941495
+                                ],
+                                [
+                                    -43.170635,
+                                    -22.929759
+                                ],
+                                [
+                                    -43.167847,
+                                    -22.922495
+                                ],
+                                [
+                                    -43.172043,
+                                    -22.915502
+                                ],
+                                [
+                                    -43.160196,
+                                    -22.916481
+                                ],
+                                [
+                                    -43.161461,
+                                    -22.905073
+                                ],
+                                [
+                                    -43.173163,
+                                    -22.901321
+                                ],
+                                [
+                                    -43.174678,
+                                    -22.893138
+                                ],
+                                [
+                                    -43.181025,
+                                    -22.895389
+                                ],
+                                [
+                                    -43.195815,
+                                    -22.891854
+                                ],
+                                [
+                                    -43.210702,
+                                    -22.897445
+                                ],
+                                [
+                                    -43.215805,
+                                    -22.886718
+                                ],
+                                [
+                                    -43.204493,
+                                    -22.875049
+                                ],
+                                [
+                                    -43.213903,
+                                    -22.871169
+                                ],
+                                [
+                                    -43.225822,
+                                    -22.87358
+                                ],
+                                [
+                                    -43.236722,
+                                    -22.86144
+                                ],
+                                [
+                                    -43.243375,
+                                    -22.842121
+                                ],
+                                [
+                                    -43.254808,
+                                    -22.836271
+                                ],
+                                [
+                                    -43.266531,
+                                    -22.82406
+                                ],
+                                [
+                                    -43.273231,
+                                    -22.810056
+                                ],
+                                [
+                                    -43.279117,
+                                    -22.807429
+                                ],
+                                [
+                                    -43.291189,
+                                    -22.810035
+                                ],
+                                [
+                                    -43.30394,
+                                    -22.801306
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    -43.172221,
+                                    -22.775548
+                                ],
+                                [
+                                    -43.177939,
+                                    -22.782537
+                                ],
+                                [
+                                    -43.186766,
+                                    -22.784625
+                                ],
+                                [
+                                    -43.188797,
+                                    -22.794557
+                                ],
+                                [
+                                    -43.207529,
+                                    -22.794813
+                                ],
+                                [
+                                    -43.220531,
+                                    -22.784625
+                                ],
+                                [
+                                    -43.228409,
+                                    -22.783415
+                                ],
+                                [
+                                    -43.2341,
+                                    -22.791274
+                                ],
+                                [
+                                    -43.247465,
+                                    -22.793066
+                                ],
+                                [
+                                    -43.261024,
+                                    -22.803018
+                                ],
+                                [
+                                    -43.265692,
+                                    -22.81311
+                                ],
+                                [
+                                    -43.251985,
+                                    -22.823562
+                                ],
+                                [
+                                    -43.251611,
+                                    -22.828256
+                                ],
+                                [
+                                    -43.241408,
+                                    -22.833875
+                                ],
+                                [
+                                    -43.230037,
+                                    -22.82321
+                                ],
+                                [
+                                    -43.216661,
+                                    -22.817282
+                                ],
+                                [
+                                    -43.203681,
+                                    -22.820301
+                                ],
+                                [
+                                    -43.19696,
+                                    -22.818891
+                                ],
+                                [
+                                    -43.189688,
+                                    -22.821932
+                                ],
+                                [
+                                    -43.187771,
+                                    -22.827485
+                                ],
+                                [
+                                    -43.18008,
+                                    -22.831275
+                                ],
+                                [
+                                    -43.170186,
+                                    -22.831385
+                                ],
+                                [
+                                    -43.168255,
+                                    -22.824817
+                                ],
+                                [
+                                    -43.1752,
+                                    -22.819114
+                                ],
+                                [
+                                    -43.1784,
+                                    -22.802382
+                                ],
+                                [
+                                    -43.169553,
+                                    -22.79346
+                                ],
+                                [
+                                    -43.157395,
+                                    -22.787437
+                                ],
+                                [
+                                    -43.158073,
+                                    -22.778337
+                                ],
+                                [
+                                    -43.172221,
+                                    -22.775548
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    -43.229991,
+                                    -22.836986
+                                ],
+                                [
+                                    -43.23824,
+                                    -22.83902
+                                ],
+                                [
+                                    -43.241088,
+                                    -22.84659
+                                ],
+                                [
+                                    -43.236593,
+                                    -22.853908
+                                ],
+                                [
+                                    -43.236069,
+                                    -22.861837
+                                ],
+                                [
+                                    -43.232162,
+                                    -22.866204
+                                ],
+                                [
+                                    -43.213876,
+                                    -22.867859
+                                ],
+                                [
+                                    -43.216725,
+                                    -22.86143
+                                ],
+                                [
+                                    -43.227848,
+                                    -22.854918
+                                ],
+                                [
+                                    -43.232352,
+                                    -22.847132
+                                ],
+                                [
+                                    -43.224565,
+                                    -22.841625
+                                ],
+                                [
+                                    -43.229991,
+                                    -22.836986
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "https://figgy.princeton.edu/concern/scanned_resources/3386ca56-5f7d-4621-8b16-5a8df8fad29f/manifest/feature/2",
+                "type": "Feature",
+                "properties": {},
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -43.240708,
+                        -22.903697
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,252 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://figgy.princeton.edu/concern/scanned_resources/c9df4fd8-814b-4d11-870f-b2905c56210d/manifest",
+  "type": "Manifest",
+  "label": {
+    "true": [
+      "Maclean House"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "true": [
+          "Extent"
+        ]
+      },
+      "value": {
+        "true": [
+          "1 photograph (bet. 5\"\u00d77\" and 11\"\u00d717\")"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Genre"
+        ]
+      },
+      "value": {
+        "true": [
+          "printing-out paper"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Identifier"
+        ]
+      },
+      "value": {
+        "true": [
+          "ark:/88435/v118rf13h"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Part Of"
+        ]
+      },
+      "value": {
+        "true": [
+          "Historical Photograph Collection, Grounds and Buildings Series, circa 1850-1980"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Title"
+        ]
+      },
+      "value": {
+        "true": [
+          "Maclean House"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "true": [
+          "Maclean House (Princeton, N.J.)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Location"
+        ]
+      },
+      "value": {
+        "true": [
+          "Mudd, Box MP62, Item 2415"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Rendered Holding Location"
+        ]
+      },
+      "value": {
+        "true": [
+          "Mudd Manuscript Library"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Member Of Collections"
+        ]
+      },
+      "value": {
+        "true": [
+          "pudl0038"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Description"
+        ]
+      },
+      "value": {
+        "true": [
+          "19th century photos"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://iiif-cloud.princeton.edu/iiif/2/86%2Fa9%2Fca%2F86a9ca6fe3a84065933bade4be2c222c%2Fintermediate_file/full/!200,150/0/default.jpg",
+      "type": "Image",
+      "service": [
+        {
+          "@id": "https://iiif-cloud.princeton.edu/iiif/2/86%2Fa9%2Fca%2F86a9ca6fe3a84065933bade4be2c222c%2Fintermediate_file",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      ]
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "behavior": [
+    "multi-part"
+  ],
+  "rendering": [
+    {
+      "id": "http://arks.princeton.edu/ark:/88435/v118rf13h",
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://figgy.princeton.edu/catalog/c9df4fd8-814b-4d11-870f-b2905c56210d.jsonld",
+      "type": "Dataset",
+      "format": "application/ld+json"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://figgy.princeton.edu/concern/scanned_resources/c9df4fd8-814b-4d11-870f-b2905c56210d/manifest/canvas/f96ab7ff-86b6-4a66-ab35-0312e36dc144",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "recto"
+        ]
+      },
+      "height": 5019,
+      "width": 7200,
+      "rendering": [
+        {
+          "id": "https://figgy.princeton.edu/downloads/f96ab7ff-86b6-4a66-ab35-0312e36dc144/file/4d00b3a0-f64d-4f75-80a8-fdf5458c0a89",
+          "label": {
+            "true": [
+              "Download the original file"
+            ]
+          },
+          "format": "image/tiff"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/uuid/58055a01-05dd-4ab9-b61c-4bab963363df",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://figgy.princeton.edu/concern/scanned_resources/c9df4fd8-814b-4d11-870f-b2905c56210d/manifest/image/f96ab7ff-86b6-4a66-ab35-0312e36dc144",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://figgy.princeton.edu/concern/scanned_resources/c9df4fd8-814b-4d11-870f-b2905c56210d/manifest/canvas/f96ab7ff-86b6-4a66-ab35-0312e36dc144",
+              "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/86%2Fa9%2Fca%2F86a9ca6fe3a84065933bade4be2c222c%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5019,
+                "width": 7200,
+                "service": [
+                  {
+                    "@id": "https://iiif-cloud.princeton.edu/iiif/2/86%2Fa9%2Fca%2F86a9ca6fe3a84065933bade4be2c222c%2Fintermediate_file",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://figgy.princeton.edu/concern/scanned_resources/c9df4fd8-814b-4d11-870f-b2905c56210d/manifest/range/ra05c3ab2-7ea6-4b0a-91ff-a9e6d07f35b4",
+      "type": "Range",
+      "label": {
+        "true": [
+          "Main Structure"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/c9df4fd8-814b-4d11-870f-b2905c56210d/manifest/canvas/f96ab7ff-86b6-4a66-ab35-0312e36dc144",
+          "type": "Canvas"
+        }
+      ]
+    }
+  ],
+  "navPlace": {
+      "id": "https://figgy.princeton.edu/concern/scanned_resources/c9df4fd8-814b-4d11-870f-b2905c56210d/manifest/feature-collection/1",
+      "type": "FeatureCollection",
+      "features": [
+          {
+              "id": "https://figgy.princeton.edu/concern/scanned_resources/c9df4fd8-814b-4d11-870f-b2905c56210d/manifest/feature/1",
+              "type": "Feature",
+              "properties": {},
+              "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    -74.66020631,
+                    40.34907855
+                  ]
+              }
+          }
+      ]
+  }
+}

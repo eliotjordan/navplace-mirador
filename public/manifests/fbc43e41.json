@@ -1,0 +1,289 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://figgy.princeton.edu/concern/ephemera_folders/fbc43e41-4e49-4c4c-a1e1-ab1b6549e16d/manifest",
+    "type": "Manifest",
+    "label": {
+        "true": [
+            "BloOp! Baba Gris @ La Respuesta. Abril 5. 10 p.m."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "true": [
+                    "Barcode"
+                ]
+            },
+            "value": {
+                "true": [
+                    "32101113205445"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Folder Number"
+                ]
+            },
+            "value": {
+                "true": [
+                    "201"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "true": [
+                    "BloOp! Baba Gris @ La Respuesta. Abril 5. 10 p.m."
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Spanish"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Genre"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Flyers"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Width"
+                ]
+            },
+            "value": {
+                "true": [
+                    "25"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Height"
+                ]
+            },
+            "value": {
+                "true": [
+                    "25"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Page Count"
+                ]
+            },
+            "value": {
+                "true": [
+                    "1"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Publisher"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Audio Degenerate"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Geographic Origin"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Puerto Rico"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Geo Subject"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Puerto Rico"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "true": [
+                    "2019"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Subject"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Mass media",
+                    "Music"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://iiif-cloud.princeton.edu/iiif/2/12%2F4d%2F00%2F124d001f6ea5430383d4bc33a3bca788%2Fintermediate_file/full/!200,150/0/default.jpg",
+            "type": "Image",
+            "service": [
+                {
+                    "@id": "https://iiif-cloud.princeton.edu/iiif/2/12%2F4d%2F00%2F124d001f6ea5430383d4bc33a3bca788%2Fintermediate_file",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
+    "logo": [
+        {
+            "id": "https://figgy.princeton.edu/assets/pul_logo_icon-7b5f9384dfa5ca04f4851c6ee9e44e2d6953e55f893472a3e205e1591d3b2ca6.png",
+            "type": "Image"
+        }
+    ],
+    "behavior": [
+        "individuals"
+    ],
+    "seeAlso": [
+        {
+            "id": "https://figgy.princeton.edu/catalog/fbc43e41-4e49-4c4c-a1e1-ab1b6549e16d.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/fbc43e41-4e49-4c4c-a1e1-ab1b6549e16d/manifest/canvas/380ca962-7d9a-4b65-990f-c83c62771dd3",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "1"
+                ]
+            },
+            "height": 4061,
+            "width": 4060,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/380ca962-7d9a-4b65-990f-c83c62771dd3/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/380ca962-7d9a-4b65-990f-c83c62771dd3/file/121cf7fa-f7cd-4054-9308-caea858d9acf",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/9cc1cded-0dcd-4ca7-a8b6-911c8fb18591",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/fbc43e41-4e49-4c4c-a1e1-ab1b6549e16d/manifest/image/380ca962-7d9a-4b65-990f-c83c62771dd3",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/fbc43e41-4e49-4c4c-a1e1-ab1b6549e16d/manifest/canvas/380ca962-7d9a-4b65-990f-c83c62771dd3",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/12%2F4d%2F00%2F124d001f6ea5430383d4bc33a3bca788%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 4061,
+                                "width": 4060,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/12%2F4d%2F00%2F124d001f6ea5430383d4bc33a3bca788%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "service": [
+        {
+            "@id": "https://figgy.princeton.edu/catalog/fbc43e41-4e49-4c4c-a1e1-ab1b6549e16d/iiif_search",
+            "@type": "SearchService1",
+            "label": "Search within this item",
+            "profile": "http://iiif.io/api/search/0/search"
+        }
+    ],
+    "navPlace": {
+        "id": "https://figgy.princeton.edu/concern/scanned_resources/fbc43e41-4e49-4c4c-a1e1-ab1b6549e16d/manifest/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://figgy.princeton.edu/concern/scanned_resources/fbc43e41-4e49-4c4c-a1e1-ab1b6549e16d/manifest/feature/1",
+                "type": "Feature",
+                "properties": {},
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -66.06752,
+                        18.443266
+                    ]
+                }
+            }
+        ]
+    }
+}

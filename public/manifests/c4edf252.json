@@ -1,0 +1,2508 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest",
+    "type": "Manifest",
+    "label": {
+        "true": [
+            "Cuento sobre el Carnaval de Oruro: Revelaci\u00f3n abrasadora."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "true": [
+                    "Barcode"
+                ]
+            },
+            "value": {
+                "true": [
+                    "32101089957714"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Folder Number"
+                ]
+            },
+            "value": {
+                "true": [
+                    "19"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Cuento sobre el Carnaval de Oruro: Revelaci\u00f3n abrasadora."
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Spanish"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Genre"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Pamphlets"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Width"
+                ]
+            },
+            "value": {
+                "true": [
+                    "14"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Height"
+                ]
+            },
+            "value": {
+                "true": [
+                    "20"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Page Count"
+                ]
+            },
+            "value": {
+                "true": [
+                    "24"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Carlos Barrag\u00e1n Vargas"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Contributor"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Misi\u00f3n de Cooperaci\u00f3n T\u00e9cnica Holandesa (MCTH) "
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Geographic Origin"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Bolivia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Geo Subject"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Bolivia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Local Identifier"
+                ]
+            },
+            "value": {
+                "true": [
+                    "1d85c"
+                ]
+            }
+        },
+        {
+            "label": {
+                "true": [
+                    "Subject"
+                ]
+            },
+            "value": {
+                "true": [
+                    "Festivals",
+                    "Literature"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://iiif-cloud.princeton.edu/iiif/2/e5%2F71%2Fd0%2Fe571d0b3f4e8492c8ca2ddaa8c8f4fd5%2Fintermediate_file/full/!200,150/0/default.jpg",
+            "type": "Image",
+            "service": [
+                {
+                    "@id": "https://iiif-cloud.princeton.edu/iiif/2/e5%2F71%2Fd0%2Fe571d0b3f4e8492c8ca2ddaa8c8f4fd5%2Fintermediate_file",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
+    "logo": [
+        {
+            "id": "https://figgy.princeton.edu/assets/pul_logo_icon-7b5f9384dfa5ca04f4851c6ee9e44e2d6953e55f893472a3e205e1591d3b2ca6.png",
+            "type": "Image"
+        }
+    ],
+    "behavior": [
+        "individuals"
+    ],
+    "seeAlso": [
+        {
+            "id": "https://figgy.princeton.edu/catalog/c4edf252-6913-4ca4-beee-1057cbe20a55.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/02c81f39-534b-44a5-a485-63a305c4ab0a",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "1"
+                ]
+            },
+            "height": 3142,
+            "width": 2226,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/downloads/02c81f39-534b-44a5-a485-63a305c4ab0a/file/b05482f5-ab1c-4d46-9110-7059ab8be39d",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/3e03fc5c-701f-4519-a8a2-3ae02f9c748d",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/02c81f39-534b-44a5-a485-63a305c4ab0a",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/02c81f39-534b-44a5-a485-63a305c4ab0a",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/e5%2F71%2Fd0%2Fe571d0b3f4e8492c8ca2ddaa8c8f4fd5%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3142,
+                                "width": 2226,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/e5%2F71%2Fd0%2Fe571d0b3f4e8492c8ca2ddaa8c8f4fd5%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/61bfcea8-db74-4d2e-a31e-19bf21b1c2ca",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "2"
+                ]
+            },
+            "height": 3110,
+            "width": 4368,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/61bfcea8-db74-4d2e-a31e-19bf21b1c2ca/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/61bfcea8-db74-4d2e-a31e-19bf21b1c2ca/file/cbbdaf10-6143-4e3d-beb0-29aa6b4d7bad",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/43c14f72-de8c-4d1b-b9db-d044dee84551",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/61bfcea8-db74-4d2e-a31e-19bf21b1c2ca",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/61bfcea8-db74-4d2e-a31e-19bf21b1c2ca",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/3c%2Fa7%2F26%2F3ca7269d9ffc45e4b051262837bac1eb%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3110,
+                                "width": 4368,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/3c%2Fa7%2F26%2F3ca7269d9ffc45e4b051262837bac1eb%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/a66c3547-fb5d-4584-a1fa-141762f5cead",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "3"
+                ]
+            },
+            "height": 3134,
+            "width": 4409,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/a66c3547-fb5d-4584-a1fa-141762f5cead/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/a66c3547-fb5d-4584-a1fa-141762f5cead/file/ca4b1f48-3a7b-4d55-b26c-30452ef824e1",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/ac370504-2d29-40f4-a7c2-072f0c3915bf",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/a66c3547-fb5d-4584-a1fa-141762f5cead",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/a66c3547-fb5d-4584-a1fa-141762f5cead",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/92%2Fe1%2F39%2F92e1393ac2fb4f25b1d991156e0d64e2%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3134,
+                                "width": 4409,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/92%2Fe1%2F39%2F92e1393ac2fb4f25b1d991156e0d64e2%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/9fd84fe0-344c-47d3-8f79-98ba0cca1b46",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "4"
+                ]
+            },
+            "height": 3115,
+            "width": 4372,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/9fd84fe0-344c-47d3-8f79-98ba0cca1b46/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/9fd84fe0-344c-47d3-8f79-98ba0cca1b46/file/ce08a88b-9ea2-42bd-8ac7-dd1628b5d392",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/9a31d75d-291b-4cde-85e1-78fcc14e384f",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/9fd84fe0-344c-47d3-8f79-98ba0cca1b46",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/9fd84fe0-344c-47d3-8f79-98ba0cca1b46",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/ce%2F9b%2Fcb%2Fce9bcbce64c640b99d7686a261972dfa%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3115,
+                                "width": 4372,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/ce%2F9b%2Fcb%2Fce9bcbce64c640b99d7686a261972dfa%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/8af4407c-6514-44db-9796-31f7aed10dcf",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "5"
+                ]
+            },
+            "height": 3115,
+            "width": 4380,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/8af4407c-6514-44db-9796-31f7aed10dcf/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/8af4407c-6514-44db-9796-31f7aed10dcf/file/51ebb7a2-5e65-4d53-9080-f30411187d93",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/6991af07-3ba0-413f-b951-5d52d58457b4",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/8af4407c-6514-44db-9796-31f7aed10dcf",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/8af4407c-6514-44db-9796-31f7aed10dcf",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/88%2F79%2F3d%2F88793d15eba246bfa49577da869580ce%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3115,
+                                "width": 4380,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/88%2F79%2F3d%2F88793d15eba246bfa49577da869580ce%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/eacdbee6-46b4-4682-b226-e2c8f929f8c4",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "6"
+                ]
+            },
+            "height": 3125,
+            "width": 4381,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/eacdbee6-46b4-4682-b226-e2c8f929f8c4/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/eacdbee6-46b4-4682-b226-e2c8f929f8c4/file/e554ef64-b985-4c90-b1f5-8bdb2e0cc648",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/5a792ac1-3323-476e-a826-3b04697ce4ec",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/eacdbee6-46b4-4682-b226-e2c8f929f8c4",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/eacdbee6-46b4-4682-b226-e2c8f929f8c4",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/9e%2Ff8%2Ff1%2F9ef8f1705bfc440f8079f6bb2a0c6750%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3125,
+                                "width": 4381,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/9e%2Ff8%2Ff1%2F9ef8f1705bfc440f8079f6bb2a0c6750%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/4f1ab00c-1d79-4ed2-b765-621b1b90e692",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "7"
+                ]
+            },
+            "height": 3111,
+            "width": 4367,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/4f1ab00c-1d79-4ed2-b765-621b1b90e692/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/4f1ab00c-1d79-4ed2-b765-621b1b90e692/file/93a95a2c-e278-432e-8d41-102a6e7c7038",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/d0558214-36de-40de-85f5-1cbe1dd0d6c5",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/4f1ab00c-1d79-4ed2-b765-621b1b90e692",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/4f1ab00c-1d79-4ed2-b765-621b1b90e692",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/72%2F15%2Fef%2F7215efadce784202a00b75368ff450b7%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3111,
+                                "width": 4367,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/72%2F15%2Fef%2F7215efadce784202a00b75368ff450b7%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/b84276aa-e5cc-459e-97a9-631505b47866",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "8"
+                ]
+            },
+            "height": 3114,
+            "width": 4421,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/b84276aa-e5cc-459e-97a9-631505b47866/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/b84276aa-e5cc-459e-97a9-631505b47866/file/35a7a233-fe01-415e-8505-4cc1accae1b9",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/f1fb8fcf-0ca8-4bca-9de7-1bb7e34915db",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/b84276aa-e5cc-459e-97a9-631505b47866",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/b84276aa-e5cc-459e-97a9-631505b47866",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/d5%2F0b%2F8a%2Fd50b8a0073ac446bba0e66357c7b157d%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3114,
+                                "width": 4421,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/d5%2F0b%2F8a%2Fd50b8a0073ac446bba0e66357c7b157d%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/4675e511-f267-4057-a8cc-5d1503d06d28",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "9"
+                ]
+            },
+            "height": 3110,
+            "width": 4420,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/4675e511-f267-4057-a8cc-5d1503d06d28/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/4675e511-f267-4057-a8cc-5d1503d06d28/file/3eccabd2-f18a-4189-9bde-30e01ef74c50",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/dd1f48cc-c5a1-48e8-824c-282bbc1c5405",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/4675e511-f267-4057-a8cc-5d1503d06d28",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/4675e511-f267-4057-a8cc-5d1503d06d28",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/d1%2F60%2F90%2Fd16090188fae44f8bb8ddb7b4779115a%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3110,
+                                "width": 4420,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/d1%2F60%2F90%2Fd16090188fae44f8bb8ddb7b4779115a%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/d3fb1190-54a8-4651-9b9e-9bbbbd5796d0",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "10"
+                ]
+            },
+            "height": 3113,
+            "width": 4377,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/d3fb1190-54a8-4651-9b9e-9bbbbd5796d0/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/d3fb1190-54a8-4651-9b9e-9bbbbd5796d0/file/7c504709-5208-4f48-bc69-d338f6e79995",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/bd3c3e6d-1b31-4f4f-99e8-fe8c1bbad323",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/d3fb1190-54a8-4651-9b9e-9bbbbd5796d0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/d3fb1190-54a8-4651-9b9e-9bbbbd5796d0",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/4c%2F6a%2Fb6%2F4c6ab66dd097405c9141ea506e7c5586%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3113,
+                                "width": 4377,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/4c%2F6a%2Fb6%2F4c6ab66dd097405c9141ea506e7c5586%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/b1a7bd23-8cb4-4980-9aa5-fccff82b186d",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "11"
+                ]
+            },
+            "height": 3126,
+            "width": 4387,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/b1a7bd23-8cb4-4980-9aa5-fccff82b186d/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/b1a7bd23-8cb4-4980-9aa5-fccff82b186d/file/f98e6b6f-01be-4182-90df-431f9e618f2e",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/b12703bc-15a0-4eac-abb1-4fa875b656fa",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/b1a7bd23-8cb4-4980-9aa5-fccff82b186d",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/b1a7bd23-8cb4-4980-9aa5-fccff82b186d",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/f9%2F72%2Fbc%2Ff972bc928a2e424184dcaaf024c000c9%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3126,
+                                "width": 4387,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/f9%2F72%2Fbc%2Ff972bc928a2e424184dcaaf024c000c9%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/917edea1-443f-4afe-b777-52a282dc2d71",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "12"
+                ]
+            },
+            "height": 3115,
+            "width": 4385,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/917edea1-443f-4afe-b777-52a282dc2d71/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/917edea1-443f-4afe-b777-52a282dc2d71/file/a73f38d0-47fa-4db4-8ece-505ecdd57bbe",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/c6e67449-b77b-407a-ae11-bfcd3b3a98bb",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/917edea1-443f-4afe-b777-52a282dc2d71",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/917edea1-443f-4afe-b777-52a282dc2d71",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/0b%2F9d%2Fa7%2F0b9da78411694efda7df8ac91dc6d9ec%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3115,
+                                "width": 4385,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/0b%2F9d%2Fa7%2F0b9da78411694efda7df8ac91dc6d9ec%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/b1fac0cf-67e5-451e-a7a5-8c6c9076409b",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    "13"
+                ]
+            },
+            "height": 3113,
+            "width": 2229,
+            "rendering": [
+                {
+                    "id": "https://figgy.princeton.edu/concern/file_sets/b1fac0cf-67e5-451e-a7a5-8c6c9076409b/text",
+                    "label": {
+                        "true": [
+                            "Download page text"
+                        ]
+                    },
+                    "format": "text/plain"
+                },
+                {
+                    "id": "https://figgy.princeton.edu/downloads/b1fac0cf-67e5-451e-a7a5-8c6c9076409b/file/59a846c9-8fcc-4d4f-8a6a-d756d2f3cd67",
+                    "label": {
+                        "true": [
+                            "Download the original file"
+                        ]
+                    },
+                    "format": "image/tiff"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/ac4143c5-ce4c-4a56-83e4-aa39580e6775",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/image/b1fac0cf-67e5-451e-a7a5-8c6c9076409b",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://figgy.princeton.edu/concern/ephemera_folders/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/canvas/b1fac0cf-67e5-451e-a7a5-8c6c9076409b",
+                            "body": {
+                                "id": "https://iiif-cloud.princeton.edu/iiif/2/96%2F11%2F99%2F96119945f81b4bfeab651b1e064b9b89%2Fintermediate_file/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3113,
+                                "width": 2229,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif-cloud.princeton.edu/iiif/2/96%2F11%2F99%2F96119945f81b4bfeab651b1e064b9b89%2Fintermediate_file",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "service": [
+        {
+            "@id": "https://figgy.princeton.edu/catalog/c4edf252-6913-4ca4-beee-1057cbe20a55/iiif_search",
+            "@type": "SearchService1",
+            "label": "Search within this item",
+            "profile": "http://iiif.io/api/search/0/search"
+        }
+    ],
+    "navPlace": {
+        "id": "https://figgy.princeton.edu/concern/scanned_resources/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://figgy.princeton.edu/concern/scanned_resources/c4edf252-6913-4ca4-beee-1057cbe20a55/manifest/feature/1",
+                "type": "Feature",
+                "properties": {},
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -65.368211,
+                                -9.70672
+                            ],
+                            [
+                                -65.447074,
+                                -9.697104
+                            ],
+                            [
+                                -65.501019,
+                                -9.729839
+                            ],
+                            [
+                                -65.513525,
+                                -9.79317
+                            ],
+                            [
+                                -65.596953,
+                                -9.841911
+                            ],
+                            [
+                                -65.647355,
+                                -9.79147
+                            ],
+                            [
+                                -65.750691,
+                                -9.777457
+                            ],
+                            [
+                                -65.853581,
+                                -9.794342
+                            ],
+                            [
+                                -65.871362,
+                                -9.753389
+                            ],
+                            [
+                                -65.972416,
+                                -9.775483
+                            ],
+                            [
+                                -65.985413,
+                                -9.806356
+                            ],
+                            [
+                                -66.07111,
+                                -9.784297
+                            ],
+                            [
+                                -66.152939,
+                                -9.785746
+                            ],
+                            [
+                                -66.213308,
+                                -9.834255
+                            ],
+                            [
+                                -66.313389,
+                                -9.832571
+                            ],
+                            [
+                                -66.403115,
+                                -9.863562
+                            ],
+                            [
+                                -66.61991,
+                                -9.894046
+                            ],
+                            [
+                                -66.641235,
+                                -9.94596
+                            ],
+                            [
+                                -66.790504,
+                                -10.021252
+                            ],
+                            [
+                                -66.807938,
+                                -10.048748
+                            ],
+                            [
+                                -66.94563,
+                                -10.158497
+                            ],
+                            [
+                                -67.014845,
+                                -10.256908
+                            ],
+                            [
+                                -67.179468,
+                                -10.339499
+                            ],
+                            [
+                                -67.202423,
+                                -10.321669
+                            ],
+                            [
+                                -67.321558,
+                                -10.320776
+                            ],
+                            [
+                                -67.318919,
+                                -10.380217
+                            ],
+                            [
+                                -67.423509,
+                                -10.391241
+                            ],
+                            [
+                                -67.435502,
+                                -10.446506
+                            ],
+                            [
+                                -67.604799,
+                                -10.533633
+                            ],
+                            [
+                                -67.704449,
+                                -10.700444
+                            ],
+                            [
+                                -67.863973,
+                                -10.640322
+                            ],
+                            [
+                                -68.002391,
+                                -10.648034
+                            ],
+                            [
+                                -68.108199,
+                                -10.724784
+                            ],
+                            [
+                                -68.106244,
+                                -10.779428
+                            ],
+                            [
+                                -68.192263,
+                                -10.85729
+                            ],
+                            [
+                                -68.234578,
+                                -10.952588
+                            ],
+                            [
+                                -68.276713,
+                                -10.988333
+                            ],
+                            [
+                                -68.360532,
+                                -11.006397
+                            ],
+                            [
+                                -68.505076,
+                                -11.063058
+                            ],
+                            [
+                                -68.542916,
+                                -11.109556
+                            ],
+                            [
+                                -68.656137,
+                                -11.13681
+                            ],
+                            [
+                                -68.710642,
+                                -11.131209
+                            ],
+                            [
+                                -68.765231,
+                                -11.06589
+                            ],
+                            [
+                                -68.751608,
+                                -11.01707
+                            ],
+                            [
+                                -68.802118,
+                                -10.993579
+                            ],
+                            [
+                                -68.913216,
+                                -11.019315
+                            ],
+                            [
+                                -69.001241,
+                                -11.007973
+                            ],
+                            [
+                                -69.073418,
+                                -10.965221
+                            ],
+                            [
+                                -69.102534,
+                                -10.979947
+                            ],
+                            [
+                                -69.199826,
+                                -10.94717
+                            ],
+                            [
+                                -69.539718,
+                                -10.937156
+                            ],
+                            [
+                                -69.565207,
+                                -10.966998
+                            ],
+                            [
+                                -69.270517,
+                                -11.43808
+                            ],
+                            [
+                                -68.970084,
+                                -11.918149
+                            ],
+                            [
+                                -68.652329,
+                                -12.498116
+                            ],
+                            [
+                                -68.741726,
+                                -12.633917
+                            ],
+                            [
+                                -68.712982,
+                                -12.682304
+                            ],
+                            [
+                                -68.800919,
+                                -12.755249
+                            ],
+                            [
+                                -68.87345,
+                                -12.888457
+                            ],
+                            [
+                                -68.878417,
+                                -12.956166
+                            ],
+                            [
+                                -68.855163,
+                                -13.058225
+                            ],
+                            [
+                                -68.873473,
+                                -13.131947
+                            ],
+                            [
+                                -68.84937,
+                                -13.237051
+                            ],
+                            [
+                                -68.888894,
+                                -13.372825
+                            ],
+                            [
+                                -68.895861,
+                                -13.463326
+                            ],
+                            [
+                                -68.9475,
+                                -13.571041
+                            ],
+                            [
+                                -69.063207,
+                                -13.658234
+                            ],
+                            [
+                                -69.066889,
+                                -13.687765
+                            ],
+                            [
+                                -68.921073,
+                                -13.812744
+                            ],
+                            [
+                                -68.983312,
+                                -13.89519
+                            ],
+                            [
+                                -68.97798,
+                                -13.979638
+                            ],
+                            [
+                                -68.895323,
+                                -14.044297
+                            ],
+                            [
+                                -68.846067,
+                                -14.140438
+                            ],
+                            [
+                                -68.828698,
+                                -14.219656
+                            ],
+                            [
+                                -68.96242,
+                                -14.219792
+                            ],
+                            [
+                                -69.015007,
+                                -14.313563
+                            ],
+                            [
+                                -68.984266,
+                                -14.372598
+                            ],
+                            [
+                                -69.026265,
+                                -14.423278
+                            ],
+                            [
+                                -69.081906,
+                                -14.444159
+                            ],
+                            [
+                                -69.137665,
+                                -14.504189
+                            ],
+                            [
+                                -69.139859,
+                                -14.571472
+                            ],
+                            [
+                                -69.221403,
+                                -14.582551
+                            ],
+                            [
+                                -69.226433,
+                                -14.652176
+                            ],
+                            [
+                                -69.256562,
+                                -14.683685
+                            ],
+                            [
+                                -69.236706,
+                                -14.757766
+                            ],
+                            [
+                                -69.300983,
+                                -14.766487
+                            ],
+                            [
+                                -69.357539,
+                                -14.810663
+                            ],
+                            [
+                                -69.343989,
+                                -14.88258
+                            ],
+                            [
+                                -69.360423,
+                                -14.960261
+                            ],
+                            [
+                                -69.285802,
+                                -15.096379
+                            ],
+                            [
+                                -69.216623,
+                                -15.137106
+                            ],
+                            [
+                                -69.132743,
+                                -15.245783
+                            ],
+                            [
+                                -69.171567,
+                                -15.263015
+                            ],
+                            [
+                                -69.288954,
+                                -15.437478
+                            ],
+                            [
+                                -69.314096,
+                                -15.518359
+                            ],
+                            [
+                                -69.411646,
+                                -15.621759
+                            ],
+                            [
+                                -69.275522,
+                                -16.11857
+                            ],
+                            [
+                                -69.102119,
+                                -16.225145
+                            ],
+                            [
+                                -68.957834,
+                                -16.197177
+                            ],
+                            [
+                                -68.800218,
+                                -16.349246
+                            ],
+                            [
+                                -68.988655,
+                                -16.425388
+                            ],
+                            [
+                                -69.036554,
+                                -16.563746
+                            ],
+                            [
+                                -69.000524,
+                                -16.665286
+                            ],
+                            [
+                                -69.174698,
+                                -16.732319
+                            ],
+                            [
+                                -69.18833,
+                                -16.797909
+                            ],
+                            [
+                                -69.30478,
+                                -16.916418
+                            ],
+                            [
+                                -69.342696,
+                                -16.988066
+                            ],
+                            [
+                                -69.394463,
+                                -17.024487
+                            ],
+                            [
+                                -69.373683,
+                                -17.072534
+                            ],
+                            [
+                                -69.44985,
+                                -17.095821
+                            ],
+                            [
+                                -69.55602,
+                                -17.165123
+                            ],
+                            [
+                                -69.616478,
+                                -17.262374
+                            ],
+                            [
+                                -69.469296,
+                                -17.373437
+                            ],
+                            [
+                                -69.467767,
+                                -17.604949
+                            ],
+                            [
+                                -69.343028,
+                                -17.724435
+                            ],
+                            [
+                                -69.31382,
+                                -17.788835
+                            ],
+                            [
+                                -69.312896,
+                                -17.908946
+                            ],
+                            [
+                                -69.281303,
+                                -17.970297
+                            ],
+                            [
+                                -69.120633,
+                                -18.004651
+                            ],
+                            [
+                                -69.064786,
+                                -18.048766
+                            ],
+                            [
+                                -69.081451,
+                                -18.09701
+                            ],
+                            [
+                                -69.140906,
+                                -18.14526
+                            ],
+                            [
+                                -69.063553,
+                                -18.233007
+                            ],
+                            [
+                                -69.075728,
+                                -18.292044
+                            ],
+                            [
+                                -69.051294,
+                                -18.337726
+                            ],
+                            [
+                                -69.047982,
+                                -18.426442
+                            ],
+                            [
+                                -69.004169,
+                                -18.476063
+                            ],
+                            [
+                                -69.01691,
+                                -18.57239
+                            ],
+                            [
+                                -68.978029,
+                                -18.737804
+                            ],
+                            [
+                                -68.925556,
+                                -18.842698
+                            ],
+                            [
+                                -68.9503,
+                                -18.93663
+                            ],
+                            [
+                                -68.889639,
+                                -19.043453
+                            ],
+                            [
+                                -68.80596,
+                                -19.08363
+                            ],
+                            [
+                                -68.628278,
+                                -19.251071
+                            ],
+                            [
+                                -68.54276,
+                                -19.2967
+                            ],
+                            [
+                                -68.404933,
+                                -19.416174
+                            ],
+                            [
+                                -68.440996,
+                                -19.440636
+                            ],
+                            [
+                                -68.601674,
+                                -19.645496
+                            ],
+                            [
+                                -68.62277,
+                                -19.700721
+                            ],
+                            [
+                                -68.692355,
+                                -19.749147
+                            ],
+                            [
+                                -68.599354,
+                                -19.828045
+                            ],
+                            [
+                                -68.528102,
+                                -19.845317
+                            ],
+                            [
+                                -68.521589,
+                                -19.924269
+                            ],
+                            [
+                                -68.566666,
+                                -20.05
+                            ],
+                            [
+                                -68.640189,
+                                -20.048795
+                            ],
+                            [
+                                -68.762188,
+                                -20.078183
+                            ],
+                            [
+                                -68.694396,
+                                -20.175294
+                            ],
+                            [
+                                -68.715059,
+                                -20.227395
+                            ],
+                            [
+                                -68.677116,
+                                -20.357984
+                            ],
+                            [
+                                -68.741488,
+                                -20.368656
+                            ],
+                            [
+                                -68.738882,
+                                -20.456079
+                            ],
+                            [
+                                -68.666393,
+                                -20.516755
+                            ],
+                            [
+                                -68.53496,
+                                -20.569825
+                            ],
+                            [
+                                -68.43842,
+                                -20.64237
+                            ],
+                            [
+                                -68.55371,
+                                -20.72951
+                            ],
+                            [
+                                -68.5535,
+                                -20.87609
+                            ],
+                            [
+                                -68.5127,
+                                -20.93698
+                            ],
+                            [
+                                -68.41255,
+                                -20.9346
+                            ],
+                            [
+                                -68.29504,
+                                -21.09786
+                            ],
+                            [
+                                -68.17909,
+                                -21.30201
+                            ],
+                            [
+                                -68.1807,
+                                -21.60434
+                            ],
+                            [
+                                -68.06053,
+                                -21.77035
+                            ],
+                            [
+                                -68.07237,
+                                -21.97881
+                            ],
+                            [
+                                -67.966509,
+                                -22.051048
+                            ],
+                            [
+                                -67.939165,
+                                -22.107625
+                            ],
+                            [
+                                -67.93301,
+                                -22.39086
+                            ],
+                            [
+                                -67.90279,
+                                -22.4022
+                            ],
+                            [
+                                -67.89289,
+                                -22.49934
+                            ],
+                            [
+                                -67.83891,
+                                -22.58909
+                            ],
+                            [
+                                -67.87487,
+                                -22.63894
+                            ],
+                            [
+                                -67.86816,
+                                -22.74466
+                            ],
+                            [
+                                -67.88238,
+                                -22.83393
+                            ],
+                            [
+                                -67.798456,
+                                -22.881218
+                            ],
+                            [
+                                -67.56778,
+                                -22.89809
+                            ],
+                            [
+                                -67.1807,
+                                -22.813797
+                            ],
+                            [
+                                -67.123055,
+                                -22.718056
+                            ],
+                            [
+                                -67.012222,
+                                -22.642778
+                            ],
+                            [
+                                -67.0225,
+                                -22.52389
+                            ],
+                            [
+                                -66.963333,
+                                -22.5225
+                            ],
+                            [
+                                -66.926388,
+                                -22.478056
+                            ],
+                            [
+                                -66.774722,
+                                -22.426944
+                            ],
+                            [
+                                -66.736667,
+                                -22.2275
+                            ],
+                            [
+                                -66.68889,
+                                -22.196111
+                            ],
+                            [
+                                -66.61639,
+                                -22.191944
+                            ],
+                            [
+                                -66.344722,
+                                -22.116389
+                            ],
+                            [
+                                -66.291111,
+                                -22.031944
+                            ],
+                            [
+                                -66.235,
+                                -21.790555
+                            ],
+                            [
+                                -66.194722,
+                                -21.788334
+                            ],
+                            [
+                                -66.077501,
+                                -21.831944
+                            ],
+                            [
+                                -66.041389,
+                                -21.916666
+                            ],
+                            [
+                                -65.926111,
+                                -21.933334
+                            ],
+                            [
+                                -65.812778,
+                                -22.071389
+                            ],
+                            [
+                                -65.734167,
+                                -22.113333
+                            ],
+                            [
+                                -65.473418,
+                                -22.0881
+                            ],
+                            [
+                                -64.993227,
+                                -22.081361
+                            ],
+                            [
+                                -64.900278,
+                                -22.125833
+                            ],
+                            [
+                                -64.8525,
+                                -22.125556
+                            ],
+                            [
+                                -64.716111,
+                                -22.1825
+                            ],
+                            [
+                                -64.671667,
+                                -22.169722
+                            ],
+                            [
+                                -64.594722,
+                                -22.211667
+                            ],
+                            [
+                                -64.538888,
+                                -22.276389
+                            ],
+                            [
+                                -64.566112,
+                                -22.361389
+                            ],
+                            [
+                                -64.532222,
+                                -22.424444
+                            ],
+                            [
+                                -64.42889,
+                                -22.558889
+                            ],
+                            [
+                                -64.455833,
+                                -22.618611
+                            ],
+                            [
+                                -64.401769,
+                                -22.716496
+                            ],
+                            [
+                                -64.352499,
+                                -22.767223
+                            ],
+                            [
+                                -64.282778,
+                                -22.76
+                            ],
+                            [
+                                -64.282499,
+                                -22.655554
+                            ],
+                            [
+                                -64.220278,
+                                -22.508611
+                            ],
+                            [
+                                -64.126667,
+                                -22.410278
+                            ],
+                            [
+                                -64.074444,
+                                -22.255
+                            ],
+                            [
+                                -64.043612,
+                                -22.235834
+                            ],
+                            [
+                                -63.998056,
+                                -22.111389
+                            ],
+                            [
+                                -63.931513,
+                                -21.999735
+                            ],
+                            [
+                                -63.40294,
+                                -21.999444
+                            ],
+                            [
+                                -62.807435,
+                                -21.999721
+                            ],
+                            [
+                                -62.810593,
+                                -22.129791
+                            ],
+                            [
+                                -62.744755,
+                                -22.160347
+                            ],
+                            [
+                                -62.667456,
+                                -22.242872
+                            ],
+                            [
+                                -62.637551,
+                                -22.22909
+                            ],
+                            [
+                                -62.495096,
+                                -21.788655
+                            ],
+                            [
+                                -62.260915,
+                                -21.058667
+                            ],
+                            [
+                                -62.266359,
+                                -20.563158
+                            ],
+                            [
+                                -61.922464,
+                                -20.089225
+                            ],
+                            [
+                                -61.735058,
+                                -19.634402
+                            ],
+                            [
+                                -61.181197,
+                                -19.548255
+                            ],
+                            [
+                                -60.604342,
+                                -19.456633
+                            ],
+                            [
+                                -59.974892,
+                                -19.29448
+                            ],
+                            [
+                                -59.068995,
+                                -19.287659
+                            ],
+                            [
+                                -58.235806,
+                                -19.775473
+                            ],
+                            [
+                                -58.163929,
+                                -19.827201
+                            ],
+                            [
+                                -58.201867,
+                                -19.863148
+                            ],
+                            [
+                                -58.196267,
+                                -19.926305
+                            ],
+                            [
+                                -58.14456,
+                                -20.137508
+                            ],
+                            [
+                                -58.043988,
+                                -20.098781
+                            ],
+                            [
+                                -57.957905,
+                                -20.021434
+                            ],
+                            [
+                                -57.902348,
+                                -20.042114
+                            ],
+                            [
+                                -57.859233,
+                                -19.970786
+                            ],
+                            [
+                                -58.131153,
+                                -19.758446
+                            ],
+                            [
+                                -57.783315,
+                                -19.035072
+                            ],
+                            [
+                                -57.710766,
+                                -19.034814
+                            ],
+                            [
+                                -57.719838,
+                                -18.899065
+                            ],
+                            [
+                                -57.766675,
+                                -18.899285
+                            ],
+                            [
+                                -57.560273,
+                                -18.241447
+                            ],
+                            [
+                                -57.507146,
+                                -18.198373
+                            ],
+                            [
+                                -57.574864,
+                                -18.131887
+                            ],
+                            [
+                                -57.599692,
+                                -18.047791
+                            ],
+                            [
+                                -57.722709,
+                                -17.8306
+                            ],
+                            [
+                                -57.730967,
+                                -17.718772
+                            ],
+                            [
+                                -57.783303,
+                                -17.639258
+                            ],
+                            [
+                                -57.752295,
+                                -17.564463
+                            ],
+                            [
+                                -57.883442,
+                                -17.449542
+                            ],
+                            [
+                                -57.996367,
+                                -17.515603
+                            ],
+                            [
+                                -58.060144,
+                                -17.450721
+                            ],
+                            [
+                                -58.12073,
+                                -17.447639
+                            ],
+                            [
+                                -58.195143,
+                                -17.368958
+                            ],
+                            [
+                                -58.263588,
+                                -17.344677
+                            ],
+                            [
+                                -58.278257,
+                                -17.299196
+                            ],
+                            [
+                                -58.397001,
+                                -17.181551
+                            ],
+                            [
+                                -58.423532,
+                                -17.113234
+                            ],
+                            [
+                                -58.431505,
+                                -16.99082
+                            ],
+                            [
+                                -58.460954,
+                                -16.964724
+                            ],
+                            [
+                                -58.47603,
+                                -16.827444
+                            ],
+                            [
+                                -58.463109,
+                                -16.652219
+                            ],
+                            [
+                                -58.436088,
+                                -16.592358
+                            ],
+                            [
+                                -58.343858,
+                                -16.517727
+                            ],
+                            [
+                                -58.356167,
+                                -16.426346
+                            ],
+                            [
+                                -58.309282,
+                                -16.361944
+                            ],
+                            [
+                                -58.327409,
+                                -16.271017
+                            ],
+                            [
+                                -58.389166,
+                                -16.26239
+                            ],
+                            [
+                                -58.430694,
+                                -16.322667
+                            ],
+                            [
+                                -58.786001,
+                                -16.308446
+                            ],
+                            [
+                                -59.469116,
+                                -16.279159
+                            ],
+                            [
+                                -60.170833,
+                                -16.2667
+                            ],
+                            [
+                                -60.174006,
+                                -16.263055
+                            ],
+                            [
+                                -60.239099,
+                                -15.474512
+                            ],
+                            [
+                                -60.574977,
+                                -15.097745
+                            ],
+                            [
+                                -60.245063,
+                                -15.097173
+                            ],
+                            [
+                                -60.272148,
+                                -14.620292
+                            ],
+                            [
+                                -60.323135,
+                                -14.610075
+                            ],
+                            [
+                                -60.338179,
+                                -14.511886
+                            ],
+                            [
+                                -60.403873,
+                                -14.401021
+                            ],
+                            [
+                                -60.395485,
+                                -14.36431
+                            ],
+                            [
+                                -60.453159,
+                                -14.314346
+                            ],
+                            [
+                                -60.479153,
+                                -14.095433
+                            ],
+                            [
+                                -60.447631,
+                                -14.08563
+                            ],
+                            [
+                                -60.403236,
+                                -13.999802
+                            ],
+                            [
+                                -60.484235,
+                                -13.848864
+                            ],
+                            [
+                                -60.472682,
+                                -13.793719
+                            ],
+                            [
+                                -60.56941,
+                                -13.768705
+                            ],
+                            [
+                                -60.623516,
+                                -13.719535
+                            ],
+                            [
+                                -60.810067,
+                                -13.655275
+                            ],
+                            [
+                                -60.87984,
+                                -13.617528
+                            ],
+                            [
+                                -60.933891,
+                                -13.540709
+                            ],
+                            [
+                                -61.005623,
+                                -13.550281
+                            ],
+                            [
+                                -61.041151,
+                                -13.50771
+                            ],
+                            [
+                                -61.171292,
+                                -13.510609
+                            ],
+                            [
+                                -61.221731,
+                                -13.530155
+                            ],
+                            [
+                                -61.288317,
+                                -13.482858
+                            ],
+                            [
+                                -61.350516,
+                                -13.521157
+                            ],
+                            [
+                                -61.469924,
+                                -13.55525
+                            ],
+                            [
+                                -61.585621,
+                                -13.500626
+                            ],
+                            [
+                                -61.693844,
+                                -13.50808
+                            ],
+                            [
+                                -61.757348,
+                                -13.540575
+                            ],
+                            [
+                                -61.868853,
+                                -13.528222
+                            ],
+                            [
+                                -61.887426,
+                                -13.440775
+                            ],
+                            [
+                                -62.003206,
+                                -13.365412
+                            ],
+                            [
+                                -62.115684,
+                                -13.258465
+                            ],
+                            [
+                                -62.119709,
+                                -13.153533
+                            ],
+                            [
+                                -62.214789,
+                                -13.111345
+                            ],
+                            [
+                                -62.24593,
+                                -13.145163
+                            ],
+                            [
+                                -62.351961,
+                                -13.143294
+                            ],
+                            [
+                                -62.465548,
+                                -13.077198
+                            ],
+                            [
+                                -62.54716,
+                                -13.073994
+                            ],
+                            [
+                                -62.612573,
+                                -13.041295
+                            ],
+                            [
+                                -62.660688,
+                                -12.969472
+                            ],
+                            [
+                                -62.73402,
+                                -13.021867
+                            ],
+                            [
+                                -62.779098,
+                                -13.009574
+                            ],
+                            [
+                                -62.803301,
+                                -12.94508
+                            ],
+                            [
+                                -62.87021,
+                                -12.910618
+                            ],
+                            [
+                                -62.921354,
+                                -12.840862
+                            ],
+                            [
+                                -63.001022,
+                                -12.841867
+                            ],
+                            [
+                                -63.054579,
+                                -12.731132
+                            ],
+                            [
+                                -63.164479,
+                                -12.615721
+                            ],
+                            [
+                                -63.239705,
+                                -12.677426
+                            ],
+                            [
+                                -63.295545,
+                                -12.681857
+                            ],
+                            [
+                                -63.400948,
+                                -12.63621
+                            ],
+                            [
+                                -63.437302,
+                                -12.584658
+                            ],
+                            [
+                                -63.501738,
+                                -12.567324
+                            ],
+                            [
+                                -63.550491,
+                                -12.508437
+                            ],
+                            [
+                                -63.786303,
+                                -12.427945
+                            ],
+                            [
+                                -63.952973,
+                                -12.531771
+                            ],
+                            [
+                                -64.040162,
+                                -12.51514
+                            ],
+                            [
+                                -64.13388,
+                                -12.476454
+                            ],
+                            [
+                                -64.235557,
+                                -12.456125
+                            ],
+                            [
+                                -64.400918,
+                                -12.449021
+                            ],
+                            [
+                                -64.512106,
+                                -12.351429
+                            ],
+                            [
+                                -64.492859,
+                                -12.29426
+                            ],
+                            [
+                                -64.512789,
+                                -12.222873
+                            ],
+                            [
+                                -64.616219,
+                                -12.214717
+                            ],
+                            [
+                                -64.712301,
+                                -12.174441
+                            ],
+                            [
+                                -64.697475,
+                                -12.100602
+                            ],
+                            [
+                                -64.788473,
+                                -12.085789
+                            ],
+                            [
+                                -64.839587,
+                                -12.010679
+                            ],
+                            [
+                                -64.917026,
+                                -12.028383
+                            ],
+                            [
+                                -64.948389,
+                                -11.993427
+                            ],
+                            [
+                                -65.025977,
+                                -11.998595
+                            ],
+                            [
+                                -65.014998,
+                                -11.904155
+                            ],
+                            [
+                                -65.070695,
+                                -11.86911
+                            ],
+                            [
+                                -65.059724,
+                                -11.790678
+                            ],
+                            [
+                                -65.098526,
+                                -11.705634
+                            ],
+                            [
+                                -65.182973,
+                                -11.721703
+                            ],
+                            [
+                                -65.256967,
+                                -11.696401
+                            ],
+                            [
+                                -65.217913,
+                                -11.652089
+                            ],
+                            [
+                                -65.225003,
+                                -11.516447
+                            ],
+                            [
+                                -65.304919,
+                                -11.5016
+                            ],
+                            [
+                                -65.361611,
+                                -11.249582
+                            ],
+                            [
+                                -65.363495,
+                                -11.147266
+                            ],
+                            [
+                                -65.288889,
+                                -11.094252
+                            ],
+                            [
+                                -65.294861,
+                                -11.023615
+                            ],
+                            [
+                                -65.250859,
+                                -10.984546
+                            ],
+                            [
+                                -65.276551,
+                                -10.869355
+                            ],
+                            [
+                                -65.355319,
+                                -10.786825
+                            ],
+                            [
+                                -65.34875,
+                                -10.672711
+                            ],
+                            [
+                                -65.416748,
+                                -10.618687
+                            ],
+                            [
+                                -65.397197,
+                                -10.583345
+                            ],
+                            [
+                                -65.429635,
+                                -10.482896
+                            ],
+                            [
+                                -65.3815,
+                                -10.429074
+                            ],
+                            [
+                                -65.391801,
+                                -10.374437
+                            ],
+                            [
+                                -65.319416,
+                                -10.29226
+                            ],
+                            [
+                                -65.289496,
+                                -10.21064
+                            ],
+                            [
+                                -65.300577,
+                                -10.100908
+                            ],
+                            [
+                                -65.326163,
+                                -10.06618
+                            ],
+                            [
+                                -65.331829,
+                                -9.930015
+                            ],
+                            [
+                                -65.288659,
+                                -9.865727
+                            ],
+                            [
+                                -65.368211,
+                                -9.70672
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    }
+}
